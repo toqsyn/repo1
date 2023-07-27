@@ -1,3 +1,4 @@
+#This is fixed file
 f = open("myfile.txt", "w")
 f.write("This is my first file!")
 f.close()
